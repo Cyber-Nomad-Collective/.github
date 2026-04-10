@@ -7,10 +7,11 @@
 
 ### What we aim to focus as the targets
 
-- design resilient systems constructed by brainstormed teams of architects with understanding and care
+- design resilient systems constructed after intense brainstorms by teams of architects with understanding and care 
 - ship reliable software with clear concepts, crafted with passion and professionaly deployed on publishing platforms
 - keep infrastructure optimized to be fast and with readable management for performance and observability
 - by avoiding lockups in single stack for independence and using as cure for burnouts joy of discover new tech
+- to enjoy the act of creation in art of code that with small steps among successes and fails on test stage can make even small but good change when released across the society as free thingy that users cherish 
 
 ---
 
